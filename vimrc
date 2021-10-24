@@ -8,7 +8,7 @@ set smartindent
 set smarttab
 
 syntax on
-colo zellner
+colo delek
 set title 
 set confirm
 set ruler

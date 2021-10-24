@@ -1,3 +1,4 @@
+set termguicolors
 set number
 set showmatch
 set visualbell
@@ -7,7 +8,7 @@ set smartindent
 set smarttab
 
 syntax on
-colo morning
+colo zellner
 set title 
 set confirm
 set ruler
